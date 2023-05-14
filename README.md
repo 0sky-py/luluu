@@ -1,2 +1,1 @@
-# luluu
-a luluu information
+# Luluu
