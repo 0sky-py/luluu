@@ -20,6 +20,9 @@ This command will serve to automatically give roles when a member or bot to whic
 
 
 
+<p align="center"><img src="https://media.tenor.com/44zktmfnbnIAAAAi/divider.gif"/></p> 
+
+
 ## Links:
 
 - [Page Oficial](http://luluu.likesyou.org/)
