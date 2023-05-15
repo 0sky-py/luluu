@@ -21,7 +21,6 @@ This command will serve to automatically give roles when a member or bot to whic
 
 
 ## Links:
----
 
 - [Page Oficial](http://luluu.likesyou.org/)
 - [Docs](http://docsluluu.likesyou.org/)
