@@ -4,9 +4,9 @@
 
 ## Ideology/Target
 
- Our purpose is to create a bot in which you can be safe and at the same time have fun with it with its NSFW and SFW commands.
+🇺🇲 Our purpose is to create a bot in which you can be safe and at the same time have fun with it with its NSFW and SFW commands.
  
- Nuestro proposito es crear un bot en el cual puedas estar seguro y a la vez divertirte con el con sus comandos NSFW y SFW
+🇪🇸 Nuestro proposito es crear un bot en el cual puedas estar seguro y a la vez divertirte con el con sus comandos NSFW y SFW
 
 
 
